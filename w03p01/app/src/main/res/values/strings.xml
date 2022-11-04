@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">w02p01</string>
+    <string-array name="menu">
+        <item>Pozycja pierwsza</item>
+        <item>Pozycja druga</item>
+        <item>Pozycja trzecia</item>
+    </string-array>
+</resources>
